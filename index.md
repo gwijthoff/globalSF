@@ -1,25 +1,24 @@
 ---
-title: |
-    **CMLIT 122:\ \
-    Global Science Fiction** \
-    Spring 2018 \
-    Elec Eng West 201 \| Tue/Thu 12:05 - 1:20
-author: |
-    Professor:\ Grant Wythoff\
-    \(<gxw63@psu.edu>\)\
-    Office Hours by appointment\
-     \
-    Course site:\
-    <https://gwijthoff.github.io/globalSF>
+layout: syllabus-front
+title: Global Science Fiction | Spring 2018
 ---
 
-![](assets/images/cc-by.png)\
+# Global Science Fiction
 
-*This syllabus is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).*
+## CMLIT 122
 
-* * * * * *
+```
+Spring 2018
+Tue/Thu 12:05 - 1:20
+Location: Elec Eng West 201
+
+Grant Wythoff <gxw63@psu.edu>
+Office hours by appointment
+```
 
 [**Skip to the schedule…**](#schedule)
+
+***********
 
 Description
 ============

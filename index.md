@@ -85,66 +85,102 @@ Penn State encourages qualified people with disabilities to participate in its p
   - Comics: 1
 -->
 
-# Weeks 1 and 2: how to read SF (Jan 9/11)
+# Weeks 1 - 2: How to Read SF
 
-## Jan 9
+**Tue Jan 9**
 
 - Introductions and overview of course
 
-## Jan 11
+**Thu Jan 11**
 
 - Lecture: a critical toolkit for SF
 - intro to Octavia Butler
 
-# Week 2: How to read science fiction (Jan 16/19)
-
-## Jan 16
+**Tue Jan 16**
 
 - Octavia Butler, *Parable of the Sower* (1993)
 
-## Jan 19
+**Thu Jan 19**
 
 - Butler (cont'd)
 
-# Week 3: History 1: pulp origins
+# Weeks 3 - 6: Histories of SF
 
-## Jan 23
+## Part I: Pulp Origins
+
+**Tue Jan 23**
 
 - Hugo Gernsback, ["A New Sort of Magazine"](https://manifold.umn.edu/read/fc03beb6-e670-4746-af17-4bac70ddb764/section/33eb407d-e039-4269-81df-6480de7fbfd3#ch50) (1926)
 - Stanley Weinbaum, ["A Martian Odyssey"](readings/weinbaum_martian_odyssey.pdf) (1934)
-    - also page through [the July 1934 issue](http://comicbookplus.com/?dlid=36251) of *Wonder Stories* in which the Weinbaum story first appeared
+    - also page through [the July 1934 issue of *Wonder Stories*](http://comicbookplus.com/?dlid=36251) in which the Weinbaum story first appeared
 
-## Jan 25
+**Thu Jan 25**
 
 - C.L. Moore, "Shambleau" (1933)
 
-# Week 4: History 2: golden age (Jan 30/Feb 1)
+## Part II: The Golden Age
 
-Stories collected in *Sisters of Tomorrow: The First Women of Science Fiction,* ed. Lisa Yaszek and Patrick B. Sharp (2016 [1920s-30s])
+**Tue Jan 30**
 
-<!--{++SELECTED STORIES: Sturgeon, ???++}-->
+**Thu Feb 1**
 
-# Week 5: History 3: new wave (Feb 6/8)
+<!--SELECTED STORIES: Sturgeon ???-->
 
-Samuel R. Delany, *Trouble on Triton* (1976)
+## Part III: The New Wave
 
-# Week 6: History 4: archives (Feb 13/15)
+**Tue Feb 6**
 
-VISIT SPECIAL COLLECTIONS
+- Samuel R. Delany, *Trouble on Triton* (1976)
+- *Group A visit to Special Collections*
 
-# Week 7: urban futures: Tel Aviv (Feb 20/22)
+**Thu Feb 8**
 
-[ISRAEL] Lavie Tidhar, *Central Station* (2010)
+- Delany, cont'd
 
-# Week 8: urban futures: Bangkok (Feb 27/Mar 1)
+**Tue Feb 13**
 
-Paolo Bacigalupi, *The Windup Girl* (2008)
+- Delany, cont'd
+- *Group B visit to Special Collections*
+
+**Thu Feb 15**
+
+- finish Delany
+
+# Weeks 7 - 9: Urban Futures
+
+## Tel Aviv
+
+**Tue Feb 20**
+
+- Lavie Tidhar, *Central Station* (2010)
+
+**Thu Feb 22**
+
+- Tidhar, cont'd
+
+## Bangkok
+
+**Tue Feb 27**
+
+- Paolo Bacigalupi, *The Windup Girl* (2008)
+
+**Thu Mar 1**
+
+- Bacigalupi, cont'd
 
 **MARCH 5–11 SPRING BREAK**
 
-# Week 9: urban futures: Johannesburg (Mar 13/15)
+## Johannesburg
 
-[SOUTH AFRICA] Lauren Beukes, *Zoo City* (2010)
+**Mar 13**
+
+- Lauren Beukes, *Zoo City* (2010)
+
+**Thu Mar 15**
+
+- Beukes, cont'd
+
+# Weeks 10 - 11: 
 
 # Week 10: historical SF 1 (Mar 20/22)
 

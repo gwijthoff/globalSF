@@ -128,59 +128,37 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 ## Part III: The New Wave
 
-**Tue Feb 6**
+**Tue Feb 6 + Thu Feb 8**
 
 - Samuel R. Delany, *Trouble on Triton* (1976)
-- *Group A visit to Special Collections*
+- *Group A visits special collections on Tuesday*
 
-**Thu Feb 8**
-
-- Delany, cont'd
-
-**Tue Feb 13**
+**Tue Feb 13 + Thu Feb 15**
 
 - Delany, cont'd
-- *Group B visit to Special Collections*
-
-**Thu Feb 15**
-
-- finish Delany
+- *Group B visits special collections on Tuesday*
 
 # Weeks 7 - 9: Urban Futures
 
 ## Tel Aviv
 
-**Tue Feb 20**
+**Tue Feb 20 + Thu Feb 22**
 
 - Lavie Tidhar, *Central Station* (2010)
 
-**Thu Feb 22**
-
-- Tidhar, cont'd
-
 ## Bangkok
 
-**Tue Feb 27**
+**Tue Feb 27 + Thu Mar 1**
 
 - Paolo Bacigalupi, *The Windup Girl* (2008)
-
-**Thu Mar 1**
-
-- Bacigalupi, cont'd
 
 **MARCH 5–11 SPRING BREAK**
 
 ## Johannesburg
 
-**Mar 13**
+**Tue Mar 13 + Thu Mar 15**
 
-- Lauren Beukes, *Zoo City* (2010)
-
-**Thu Mar 15**
-
-- Beukes, cont'd
-
-# Weeks 10 - 11: 
+# Weeks 10 - 11:
 
 # Week 10: historical SF 1 (Mar 20/22)
 

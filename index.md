@@ -128,12 +128,12 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 ## Part III: The New Wave
 
-**Tue Feb 6 + Thu Feb 8**
+**Tue Feb 6 | Thu Feb 8**
 
 - Samuel R. Delany, *Trouble on Triton* (1976)
 - *Group A visits special collections on Tuesday*
 
-**Tue Feb 13 + Thu Feb 15**
+**Tue Feb 13 | Thu Feb 15**
 
 - Delany, cont'd
 - *Group B visits special collections on Tuesday*
@@ -142,13 +142,13 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 ## Tel Aviv
 
-**Tue Feb 20 + Thu Feb 22**
+**Tue Feb 20 | Thu Feb 22**
 
 - Lavie Tidhar, *Central Station* (2010)
 
 ## Bangkok
 
-**Tue Feb 27 + Thu Mar 1**
+**Tue Feb 27 | Thu Mar 1**
 
 - Paolo Bacigalupi, *The Windup Girl* (2008)
 
@@ -156,7 +156,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 ## Johannesburg
 
-**Tue Mar 13 + Thu Mar 15**
+**Tue Mar 13 | Thu Mar 15**
+
+- Lauren Beukes, *Zoo City* (2010)
 
 # Weeks 10 - 11:
 

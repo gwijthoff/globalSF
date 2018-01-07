@@ -192,6 +192,6 @@ Nnendi Okorafor, *Binti* (2015)
 Acknowledgments
 ================
 
-Thanks to Eric Hayot and Matt Tierney, whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to Lisa Yaszek, Nicholas Knouf, Eric Hayot and Matt Tierney, whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then & pandoc -o globalSF_syllabus.pdf --template globalsfsyl.latex index.md -->

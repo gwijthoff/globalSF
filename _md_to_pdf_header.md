@@ -3,7 +3,8 @@ title: |
     **CMLIT 122:\ \
     Global Science Fiction** \
     Spring 2018 \
-    Elec Eng West 201 \| Tue/Thu 12:05 - 1:20
+    Elec Eng West 201 \
+    Tue/Thu 12:05 - 1:20
 author: |
     Professor:\ Grant Wythoff\
     \(<gxw63@psu.edu>\)\

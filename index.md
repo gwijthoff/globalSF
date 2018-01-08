@@ -27,6 +27,17 @@ This class will introduce students to the history and poetics of science fiction
 
 Our reading will be guided by an attention to the specific frames of reference that a work of SF demands: the reader of SF must continuously triangulate the relationship between her world and the world of the text, and she must remain open to polyvalent interpretations of terms and concepts that take on new meaning in alternate universes. How do works of SF elicit this form of critical literacy, and how might it be usefully applied to other kinds of texts and experiences?
 
+## Required Books
+
+- Samuel R. Delany, *Trouble on Triton* (1976)
+- Octavia Butler, *Parable of the Sower* (1993)
+- Paolo Bacigalupi, *The Windup Girl* (2008)
+- Cixin Liu, *The Three-Body Problem* (2008)
+- Lauren Beukes, *Zoo City* (2010)
+- Lavie Tidhar, *Central Station* (2010)
+- Kim Stanley Robinson, *2312* (2012)
+- Nnendi Okorafor, *Binti* (2015)
+
 Grade breakdown
 =================
 

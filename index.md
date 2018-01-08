@@ -110,7 +110,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Thu Jan 25**
 
 - C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933)
-    - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm) Tales*](http://www.luminist.org/archives/SF/WT.htm)
+    - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm)
 
 ## Part II: The Golden Age
 

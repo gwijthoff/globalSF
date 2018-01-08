@@ -3,7 +3,7 @@ layout: syllabus-front
 title: Global Science Fiction & Spring 2018
 ---
 
-# Global Science Fiction
+# Global Science Fiction 🚀
 
 ## CMLIT 122
 
@@ -30,30 +30,25 @@ Our reading will be guided by an attention to the specific frames of reference t
 Grade breakdown
 =================
 
-**20% participation**
+**28% participation**
 
-Class participation is vital to the success of this course. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active participant, someone who comes prepared and engages with all aspects of the class.
+Class participation on all fronts is vital to the success of this course. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active conversant, someone who comes prepared and engages with all aspects of the class. Your total participation grade will encompass a) bringing your book or printed pdf to class on the date assigned, b) active contributions to discussions, and c) occasional reading quizzes.
 
-**30% weekly posts**
+**24% reports on real-world novums (four)**
 
-…
+It has become a truism that the real world seems to have finally caught up with science fiction: technologies that are now mundane parts of our everyday lives (satellite GPS, biometrics, augmented reality) were once the genre's wildest dreams. But what does it mean when we experience something (a news story, a new piece of technology, a world event) as feeling "like science fiction?"
 
-**25% "Re-design" assignment**
+Four times throughout the semester, you will report on a real-world novum (SF critic Darko Suvin's term for a novelty or innovation) that *feels* like science fiction. Your short piece should consist of three paragraphs describing the novum and reflecting on the lessons and questions it offers the way we live with technology, with the changing environment, and with one another today. The purpose of these exercises is to see what happens when we apply the critical questions of science fiction studies to our everyday lives.
 
-…
+<!--four posts (staggered, roughly every third week. first two weeks and final week off)-->
 
-**25% final project**
+**24% short essays (two)**
 
-…
+Two short critical essays will be assigned, each focusing on one novel from our readings. Both essays will run 5 double-spaced pages each (~1500 words). Further instruction will be provided.
 
-Summary of assignment due dates
-================================
+**24% speculative design final project**
 
-- **7am Tuesdays:** weekly post
-- **Feb 23:** re-design proposal
-- **March 9:** re-design paper and presentation due
-- **April 18:** final project proposal
-- **May 8:** final project due
+For your final projejct, you will "re-design” an existing technology, infrastructure, or social form. These interventions can range from micro-level (e.g. proposing a particular tweak to the infrastructure of the Internet and tracing its consequences) to whole-cloth (e.g. envisioning an alternate communication system). You will situate this re-design among the novels we have read, using the texts to help imagine the structure implications of your re-design. The final form of this assignment will be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired. Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class.
 
 Administrivia
 ==============
@@ -98,13 +93,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Lecture: a critical toolkit for SF
 - intro to Octavia Butler
 
-**Tue Jan 16**
+**Tue Jan 16 & Thu Jan 19**
 
 - Octavia Butler, *Parable of the Sower* (1993)
-
-**Thu Jan 19**
-
-- Butler (cont'd)
 
 # Weeks 3 - 6: Histories of SF
 

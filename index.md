@@ -23,7 +23,9 @@ Office hours by appointment
 Description
 ============
 
-This class will introduce students to the history and poetics of science fiction (SF). Our focus will be international, surveying the global production of speculative narratives in several languages (all translated into English). Each of the novels---and some comics---we will read in the first half of the course represent a pivotal moment in the development of the genre: from nineteenth-century utopian precursors, to pulp origins, to the postwar Golden Age, and then from New Wave explorations of race, gender, and sexuality all the way up to the contemporary drive toward dystopia on the one hand and fantasy on the other.
+This class will introduce students to the history and poetics of science fiction (SF). Our focus will be international, surveying the global production of speculative narratives in several languages (all translated into English). Each of the novels---and some comics---we will read in the first portion of the course represent a pivotal moment in the development of the genre: from nineteenth-century utopian precursors, to pulp magazines, to the postwar Golden Age, to New Wave explorations of race, gender, and sexuality. The remainder of the course will survey contemporary SF from around the globe, with a particular focus first on urban narratives, and then on other worlds.
+
+Our reading will be guided by an attention to the specific frames of reference that a work of SF demands: the reader of SF must continuously triangulate the relationship between her world and the world of the text, and she must remain open to polyvalent interpretations of terms and concepts that take on new meaning in alternate universes. How do works of SF elicit this form of critical literacy, and how might it be usefully applied to other kinds of texts and experiences?
 
 Grade breakdown
 =================

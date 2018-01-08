@@ -160,34 +160,44 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 - Lauren Beukes, *Zoo City* (2010)
 
-# Weeks 10 - 11:
+# Week 10 - 15: Other Worlds
 
-# Week 10: historical SF 1 (Mar 20/22)
+## Cixin Liu
 
-[CHINA] Cixin Liu, *The Three-Body Problem* (2008)
+**Tue Mar 20 & Thu Mar 22**
 
-# Week 11: historical SF 2 (Mar 27/29)
+- Cixin Liu, *The Three-Body Problem* (2008)
 
-Liu cont'd
+**Tue Mar 27 & Thu Mar 29**
 
-# Week 12: comics (April 3/5)
+- Liu, cont'd
+
+## Interlude: Some Comics
+
+**Tue Apr 3 & Thu Apr 5**
+
+Readings TBD, could include:
 
 - [FRANCE] Alejandro Jodorowsky and Moebius, *The Incal* (1981)
 - [BELGIUM] Benoit Peeters and Francois Schuiten, *The Leaning Girl* (The Obscure Cities) (1996)
 - [CANADA] Jeff Lemire and Dustin Nguyen, *Descender* (2015)
 - [CANADA] Jeff Lemire, *Trillium* (2013)
 
-# Week 13 utopia today 1 (April 10/12)
+## Kim Stanley Robinson
 
-Kim Stanley Robinson, *2312* (2012)
+**Tue Apr 10 & Thu Apr 12**
 
-# Week 13 utopia today 2 (April 17/19)
+- Kim Stanley Robinson, *2312* (2012)
 
-Robinson, cont'd
+**Tue Apr 17 & Thu Apr 19**
 
-# Week 15: afrofuturism (April 24/16)
+- Robinson, cont'd
 
-Nnendi Okorafor, *Binti* (2015)
+## Nnendi Okorafor
+
+**Tue Apr 24 & Thu 26**
+
+- Nnendi Okorafor, *Binti* (2015)
 
 Acknowledgments
 ================

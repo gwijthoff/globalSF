@@ -12,8 +12,9 @@ Spring 2018
 Tue/Thu 12:05 - 1:20
 Location: Elec Eng West 201
 
-Grant Wythoff <gxw63@psu.edu>
-Office hours by appointment
+Professor Grant Wythoff <gxw63@psu.edu>
+Office hours Tue 2:00 - 3:00
+317 Pattee Library
 ```
 
 [**Skip to the schedule…**](#schedule)
@@ -43,7 +44,7 @@ Grade breakdown
 
 **28% participation**
 
-Class participation on all fronts is vital to the success of this course. Simply attending class will not be enough to earn full participation credit. Instead, you must be an active conversant, someone who comes prepared and engages with all aspects of the class. Your total participation grade will encompass a) bringing your book or printed pdf to class on the date assigned, b) active contributions to discussions, and c) occasional reading quizzes.
+Class participation on all fronts is vital to the success of this course. Simply attending class will not be enough to earn full credit. Instead, you must be an active participant, someone who comes prepared and engages with all aspects of the class. Your total participation grade will encompass a) bringing your book or printed pdf to class on the date assigned, b) active contributions to discussions, and c) occasional reading quizzes.
 
 **24% reports on real-world novums (four)**
 
@@ -64,12 +65,15 @@ For your final projejct, you will "re-design” an existing technology, infrastr
 Administrivia
 ==============
 
-Weekly attendance in class is expected. If you must be absent from a session for a serious reason, then you should contact me before the missed class and explain why you will not be in attendance. Cases of continuous, unexplained absence will result in a penalty to your grade or your ineligibility to complete the course. Attendance and active participation in discussions are part of fulfilling the course requirements. I will notify an advising dean if you have **three or more** unwarranted absences.  No extensions will be given except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
+Attendance and Deadlines
+------------------------
+
+While I do not advocate missing any classes, I realize that you may face unpredictable circumstances once or twice throughout the term. For this reason, you may miss two classes this semester without penalty. Additional absences will impact your final grade. Each additional absence will lower your final grade by half a letter grade. No extensions will be given on assignments except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
 
 Laptop policy
 ---------------
 
-Laptops are allowed in the classroom, but we will put them away for specific periods of time during instruction (i.e. group discussions). When your laptop *is* open during allotted periods of time (i.e. lectures or writing assignments), be sure to practice good screen etiquette: keep it to the side and don't stare too long.
+Laptops are allowed in the classroom, but we will put them away for specific periods of time during instruction (i.e. group discussions). When your laptop *is* open during allotted periods of time (i.e. lectures or writing assignments), be sure to practice good screen etiquette: keep it to the side and don't stare too long. Cellphones are not permitted during class.
 
 Academic integrity
 ---------------------
@@ -77,6 +81,11 @@ Academic integrity
 Penn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect other students’ dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20).
 
 Dishonesty of any kind will not be tolerated in this course. Dishonesty includes, but is not limited to, cheating, plagiarizing, fabricating information or citations, facilitating acts of academic dishonesty by others, having unauthorized possession of examinations, submitting work of another person or work previously used without informing the instructor, or tampering with the academic work of other students. Students who are found to be dishonest will receive academic sanctions and will be reported to the University’s Judicial Affairs office for possible further disciplinary sanction.
+
+Counseling and Physiological Services
+------------------------------------
+
+Many students at Penn State face personal challenges or have psychological needs that may interfere with interfere with their academic progress, social development, or emotional wellbeing.  The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings.  These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation. [Counseling and Psychological Services at University Park (CAPS)](http://studentaffairs.psu.edu/counseling/): 814-863- 0395; Counseling and Psychological Services at [Commonwealth Campuses](http://senate.psu.edu/faculty/counseling-services-at-commonwealth-campuses/); Penn State Crisis Line (24 hours/7 days/week): 877-229- 6400; Crisis Text Line (24 hours/7 days/week): Text LIONS to 741741
 
 Equal Access
 -----------------------------
@@ -110,7 +119,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 # Weeks 3 - 6: Histories of SF
 
-## Part I: Pulp Origins
+## Pulp Origins
 
 **Tue Jan 23**
 
@@ -123,7 +132,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 - C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933)
     - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm)
 
-## Part II: The Golden Age
+## The Golden Age
 
 **Tue Jan 30**
 
@@ -135,7 +144,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 <!--SELECTED STORIES: Sturgeon ???-->
 
-## Part III: The New Wave
+## The New Wave
 
 **Tue Feb 6 & Thu Feb 8**
 

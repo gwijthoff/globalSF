@@ -6,9 +6,10 @@ title: |
     Elec Eng West 201 \
     Tue/Thu 12:05 - 1:20
 author: |
-    Professor:\ Grant Wythoff\
+    Professor Grant Wythoff\
     \(<gxw63@psu.edu>\)\
-    Office Hours by appointment\
+    Office Hours Tue 2:00 - 3:00\
+    317 Pattee Library\
      \
     Course site:\
     <https://gwijthoff.github.io/globalSF>

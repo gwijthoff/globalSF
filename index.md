@@ -39,6 +39,23 @@ Our reading will be guided by an attention to the specific frames of reference t
 - Kim Stanley Robinson, *2312* (2012)
 - Nnendi Okorafor, *Binti* (2015)
 
+## Optional Film Screenings
+
+I've arranged to have the Immersive Environments Lab in the School of Architecture available to us this semester for some film screenings. Details to follow, but I'll be showing a handful of science fiction films on weekday evenings. Extra credit will be in order for attendance. Shortlist includes:
+
+- *Robinson Crusoe on Mars* (dir. Byron Haskin, 1964)
+- *World on a Wire* (dir. Rainer Werner Fassbinder, 1973)
+- *Scanners* (dir. David Cronenberg, 1981)
+- *Akira* (dir. Katsuhiro Ôtomo, 1988)
+- *Children of Men* (dir. Alfonso Cuarón, 2006)
+- *Sleep Dealer* (dir. Alex Rivera, 2008)
+- *Blade Runner 2049* (dir. Denis Villeneuve, 2017)
+<!--
+- *The Clone Returns Home* (dir. Kanji Nakajima, 2008)
+- *World of Tomorrow* (animated short)
+- *Her* (dir. Spike Jonze, 2013)
+-->
+
 Grade breakdown
 =================
 
@@ -70,12 +87,12 @@ Attendance and Deadlines
 
 While I do not advocate missing any classes, I realize that you may face unpredictable circumstances once or twice throughout the term. For this reason, you may miss two classes this semester without penalty. Additional absences will impact your final grade. Each additional absence will lower your final grade by half a letter grade. No extensions will be given on assignments except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
 
-Laptop policy
+Laptop Policy
 ---------------
 
 Laptops are allowed in the classroom, but we will put them away for specific periods of time during instruction (i.e. group discussions). When your laptop *is* open during allotted periods of time (i.e. lectures or writing assignments), be sure to practice good screen etiquette: keep it to the side and don't stare too long. Cellphones are not permitted during class.
 
-Academic integrity
+Academic Integrity
 ---------------------
 
 Penn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect other students’ dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20).

@@ -68,7 +68,7 @@ Class participation on all fronts is vital to the success of this course. Simply
 
 It has become a truism that the real world seems to have finally caught up with science fiction: technologies that are now mundane parts of our everyday lives (satellite GPS, biometrics, augmented reality) were once the genre's wildest dreams. But what does it mean when we experience something (a news story, a new piece of technology, a world event) as feeling "like science fiction?"
 
-Four times throughout the semester, you will report on a real-world novum (SF critic Darko Suvin's term for a novelty or innovation) that *feels* like science fiction. Your short piece should consist of three paragraphs describing the novum and reflecting on the lessons and questions it offers the way we live with technology, with the changing environment, and with one another today. The purpose of these exercises is to see what happens when we apply the critical questions of science fiction studies to our everyday lives.
+Four times throughout the semester, you will report on a real-world "novum" (SF critic Darko Suvin's term for a novelty or innovation) that *feels* like science fiction. Your short piece should consist of three paragraphs describing the novum and reflecting on the lessons and questions it offers for the way we live today with technology, with the changing environment, and with one another. The purpose of these exercises is to see what happens when we apply the critical questions of science fiction studies to our everyday lives.
 
 <!--four posts (staggered, roughly every third week. first two weeks and final week off)-->
 
@@ -86,7 +86,7 @@ Administrivia
 Attendance and Deadlines
 ------------------------
 
-While I do not advocate missing any classes, I realize that you may face unpredictable circumstances once or twice throughout the term. For this reason, you may miss two classes this semester without penalty. Additional absences will impact your final grade. Each additional absence will lower your final grade by half a letter grade. No extensions will be given on assignments except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
+While I do not advocate missing any classes, I realize that you may face unpredictable circumstances once or twice throughout the term. For this reason, you may miss two classes this semester without penalty. Additional absences will impact your final grade. Each additional absence will lower your final grade by half a letter. No extensions will be given on assignment deadlines except in extreme (and verifiable) circumstances. These circumstances include reasons of health and extenuating circumstances, such as death of a family member.
 
 Laptop Policy
 ---------------

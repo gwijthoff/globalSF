@@ -1,6 +1,6 @@
 ---
 layout: syllabus-front
-title: Global Science Fiction & Spring 2018
+title: Global Science Fiction | Spring 2018
 ---
 
 # Global Science Fiction 🚀

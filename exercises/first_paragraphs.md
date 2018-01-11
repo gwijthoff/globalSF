@@ -1,7 +1,8 @@
 ---
 title: First Paragraphs
-author: Global Science Fiction | Spring 2018
-date: Prof. Wythoff
+author: |
+  Global Science Fiction \| Spring 2018\
+  Prof. Wythoff
 layout: page
 ---
 

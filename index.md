@@ -52,6 +52,7 @@ I've arranged to have the Immersive Environments Lab in the School of Architectu
 - *Blade Runner 2049* (dir. Denis Villeneuve, 2017)
 
 <!--
+- *Strange Days* (dir Kathryn Bigelow, 1995)
 - *The Clone Returns Home* (dir. Kanji Nakajima, 2008)
 - *World of Tomorrow* (animated short)
 - *Her* (dir. Spike Jonze, 2013)
@@ -128,7 +129,8 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Thu Jan 11**
 
-- Lecture: a critical toolkit for SF
+- exercise: [first paragraphs](exercises/first_paragraphs)
+- lecture: a critical toolkit for SF
 - intro to Octavia Butler
 
 **Tue Jan 16 & Thu Jan 19**

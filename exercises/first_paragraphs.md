@@ -5,7 +5,7 @@ date: Prof. Wythoff
 layout: page
 ---
 
-**What are the different ways in which our authors use language to introduce their readers to a new world?**
+**How do these authors use language to introduce their readers to a new world?**
 
 ***********
 

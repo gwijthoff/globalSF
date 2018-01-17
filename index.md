@@ -145,13 +145,17 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Jan 23**
 
-- Hugo Gernsback, ["A New Sort of Magazine"](https://manifold.umn.edu/read/fc03beb6-e670-4746-af17-4bac70ddb764/section/33eb407d-e039-4269-81df-6480de7fbfd3#ch50) (1926)
+- Hugo Gernsback, ["A New Sort of Magazine"](https://manifold.umn.edu/read/fc03beb6-e670-4746-af17-4bac70ddb764/section/33eb407d-e039-4269-81df-6480de7fbfd3#ch50) (1926) {% marginnote ob %}
+{% image /assets/images/wonderstoriescover.jpg 175 266 %}
+{% endmarginnote %}
 - Stanley Weinbaum, ["A Martian Odyssey"](readings/weinbaum_martian_odyssey.pdf) (1934)
     - also page through [the July 1934 issue of *Wonder Stories*](http://comicbookplus.com/?dlid=36251) in which the Weinbaum story first appeared
 
 **Thu Jan 25**
 
-- C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933)
+- C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933) {% marginnote ob %}
+{% image /assets/images/weirdtales.jpg 175 266 %}
+{% endmarginnote %}
     - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm)
 
 ## The Golden Age
@@ -170,7 +174,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Feb 6 & Thu Feb 8**
 
-- Samuel R. Delany, *Trouble on Triton* (1976)
+- Samuel R. Delany, *Trouble on Triton* (1976) {% marginnote ob %}
+{% image /assets/images/triton.jpg 175 266 %}
+{% endmarginnote %}
 
 **Tue Feb 13 & Thu Feb 15**
 
@@ -183,13 +189,17 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Feb 20 & Thu Feb 22**
 
-- Lavie Tidhar, *Central Station* (2010)
+- Lavie Tidhar, *Central Station* (2010) {% marginnote ob %}
+{% image /assets/images/tidhar.jpg 175 266 %}
+{% endmarginnote %}
 
 ## Bangkok
 
 **Tue Feb 27 & Thu Mar 1**
 
-- Paolo Bacigalupi, *The Windup Girl* (2008)
+- Paolo Bacigalupi, *The Windup Girl* (2008) {% marginnote ob %}
+{% image /assets/images/windup.jpg 175 266 %}
+{% endmarginnote %}
 
 **MARCH 5–11 SPRING BREAK**
 
@@ -197,7 +207,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Mar 13 & Thu Mar 15**
 
-- Lauren Beukes, *Zoo City* (2010)
+- Lauren Beukes, *Zoo City* (2010) {% marginnote ob %}
+{% image /assets/images/beukes.jpg 175 266 %}
+{% endmarginnote %}
 
 # Week 10 - 15: Other Worlds
 

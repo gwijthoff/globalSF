@@ -6,6 +6,7 @@ paginate:	1 # The number of posts to show per page on your homepage
 name: "Grant Wythoff"
 markdown: kramdown
 permalink: none
+destination: docs
 kramdown:
   parse_block_html: true
 gems:

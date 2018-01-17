@@ -61,7 +61,7 @@ Anderson turns the fruit in his hand, studying it. It's more like a gaudy sea an
 ❧
 {: style="text-align: center"}
 
-\newpage
+
 
 # Lauren Beukes, *Zoo City* (2010)
 
@@ -87,7 +87,7 @@ But the commander *was* afraid of the dozen or so iron stoves inside the buildin
 ❧
 {: style="text-align: center"}
 
-\newpage
+
 
 # Kim Stanley Robinson, *2312* (2012)
 

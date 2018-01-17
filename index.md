@@ -19,7 +19,8 @@ Office hours Tue 2:00 - 3:00
 
 [**Skip to the schedule…**](#schedule)
 
-***********
+❧
+{: style="text-align: center"}
 
 Description
 ============
@@ -41,7 +42,7 @@ Our reading will be guided by an attention to the specific frames of reference t
 
 ## Optional Film Screenings
 
-I've arranged to have the [Immersive Environments Lab](https://stuckeman.psu.edu/stuckeman/facilities/iel) in the School of Architecture available to our class this semester for some film screenings. [Details here](/screenings). Just know that I'll be showing a handful of science fiction films on weekday evenings (so that more students can attend), and extra credit will be in order for attendance. Shortlist includes:
+I've arranged to have the [Immersive Environments Lab](https://stuckeman.psu.edu/stuckeman/facilities/iel) in the School of Architecture available to our class this semester for some film screenings. [Details and schedule here](/screenings). Just know that I'll be showing a handful of science fiction films on Monday evenings, and extra credit will be in order for attendance. Shortlist includes:
 
 - *Robinson Crusoe on Mars* (dir. Byron Haskin, 1964)
 - *World on a Wire* (dir. Rainer Werner Fassbinder, 1973)

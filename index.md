@@ -156,6 +156,10 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Jan 30**
 
+{% marginnote f1 %}
+This is an <b>extremely</b> succinct example.
+{% endmarginnote %}
+
 - stories TBD
 
 **Thu Feb 1**

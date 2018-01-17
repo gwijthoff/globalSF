@@ -169,12 +169,11 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Tue Feb 6 & Thu Feb 8**
 
 - Samuel R. Delany, *Trouble on Triton* (1976)
-- *Group A visits special collections on Tuesday*
 
 **Tue Feb 13 & Thu Feb 15**
 
+- *Visit to special collections on Tuesday, Feb 13*
 - Delany, cont'd
-- *Group B visits special collections on Tuesday*
 
 # Weeks 7 - 9: Urban Futures
 

@@ -41,7 +41,7 @@ Our reading will be guided by an attention to the specific frames of reference t
 
 ## Optional Film Screenings
 
-I've arranged to have the Immersive Environments Lab in the School of Architecture available to our class this semester for some film screenings. Details to follow. Just know that I'll be showing a handful of science fiction films on weekday evenings (so that more students can attend), and extra credit will be in order for attendance. Shortlist includes:
+I've arranged to have the [Immersive Environments Lab](https://stuckeman.psu.edu/stuckeman/facilities/iel) in the School of Architecture available to our class this semester for some film screenings. [Details here](/screenings). Just know that I'll be showing a handful of science fiction films on weekday evenings (so that more students can attend), and extra credit will be in order for attendance. Shortlist includes:
 
 - *Robinson Crusoe on Mars* (dir. Byron Haskin, 1964)
 - *World on a Wire* (dir. Rainer Werner Fassbinder, 1973)
@@ -132,7 +132,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 - exercise: [first paragraphs](exercises/first_paragraphs)
 - lecture: a critical toolkit for SF
 - intro to Octavia Butler {% marginnote ob %}
-{% image /assets/images/butler_cover.jpg 175 266 %}
+{% image /assets/images/butler.jpg 175 266 %}
 {% endmarginnote %}
 
 **Tue Jan 16 & Thu Jan 19**
@@ -187,29 +187,41 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 ## Tel Aviv
 
-**Tue Feb 20 & Thu Feb 22**
+**Tue Feb 20**
 
-- Lavie Tidhar, *Central Station* (2010) {% marginnote ob %}
+- Lavie Tidhar, *Central Station* (2010) {% marginnote %}
 {% image /assets/images/tidhar.jpg 175 266 %}
 {% endmarginnote %}
 
+**Thu Feb 22**
+
+- Tidhar, cont'd
+
 ## Bangkok
 
-**Tue Feb 27 & Thu Mar 1**
+**Tue Feb 27**
 
 - Paolo Bacigalupi, *The Windup Girl* (2008) {% marginnote ob %}
 {% image /assets/images/windup.jpg 175 266 %}
 {% endmarginnote %}
 
-**MARCH 5–11 SPRING BREAK**
+**Thu Mar 1**
+
+- Bacigalupi, cont'd
+
+❧ **MARCH 5–11 SPRING BREAK** ❧
 
 ## Johannesburg
 
-**Tue Mar 13 & Thu Mar 15**
+**Tue Mar 13**
 
 - Lauren Beukes, *Zoo City* (2010) {% marginnote ob %}
 {% image /assets/images/beukes.jpg 175 266 %}
 {% endmarginnote %}
+
+**Thu Mar 15**
+
+- Beukes, cont'd
 
 # Week 10 - 15: Other Worlds
 
@@ -217,7 +229,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Mar 20 & Thu Mar 22**
 
-- Cixin Liu, *The Three-Body Problem* (2008)
+- Cixin Liu, *The Three-Body Problem* (2008) {% marginnote ob %}
+{% image /assets/images/liu.jpg 175 266 %}
+{% endmarginnote %}
 
 **Tue Mar 27 & Thu Mar 29**
 
@@ -229,7 +243,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 Readings TBD, could include:
 
-- [FRANCE] Alejandro Jodorowsky and Moebius, *The Incal* (1981)
+- [FRANCE] Alejandro Jodorowsky and Moebius, *The Incal* (1981) {% marginnote ob %}
+{% image /assets/images/descender.png 175 266 %}
+{% endmarginnote %}
 - [BELGIUM] Benoit Peeters and Francois Schuiten, *The Leaning Girl* (The Obscure Cities) (1996)
 - [CANADA] Jeff Lemire and Dustin Nguyen, *Descender* (2015)
 - [CANADA] Jeff Lemire, *Trillium* (2013)
@@ -238,7 +254,9 @@ Readings TBD, could include:
 
 **Tue Apr 10 & Thu Apr 12**
 
-- Kim Stanley Robinson, *2312* (2012)
+- Kim Stanley Robinson, *2312* (2012) {% marginnote ob %}
+{% image /assets/images/2312.jpg 175 266 %}
+{% endmarginnote %}
 
 **Tue Apr 17 & Thu Apr 19**
 
@@ -248,7 +266,9 @@ Readings TBD, could include:
 
 **Tue Apr 24 & Thu 26**
 
-- Nnendi Okorafor, *Binti* (2015)
+- Nnendi Okorafor, *Binti* (2015) {% marginnote ob %}
+{% image /assets/images/binti.jpg 175 266 %}
+{% endmarginnote %}
 
 Acknowledgments
 ================

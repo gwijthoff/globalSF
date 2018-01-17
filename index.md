@@ -131,7 +131,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 - exercise: [first paragraphs](exercises/first_paragraphs)
 - lecture: a critical toolkit for SF
-- intro to Octavia Butler
+- intro to Octavia Butler {% marginnote ob %}
+{% image /assets/images/butler_cover.jpg 175 266 %}
+{% endmarginnote %}
 
 **Tue Jan 16 & Thu Jan 19**
 
@@ -155,10 +157,6 @@ Penn State encourages qualified people with disabilities to participate in its p
 ## The Golden Age
 
 **Tue Jan 30**
-
-{% marginnote f1 %}
-This is an <b>extremely</b> succinct example.
-{% endmarginnote %}
 
 - stories TBD
 

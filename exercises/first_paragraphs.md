@@ -3,7 +3,7 @@ title: First Paragraphs
 author: |
   Global Science Fiction \| Spring 2018\
   Prof. Wythoff
-layout: page
+layout: exercise
 ---
 
 **How do these authors use language to introduce their readers to a new world?**

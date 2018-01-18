@@ -136,10 +136,15 @@ Penn State encourages qualified people with disabilities to participate in its p
 {% image /assets/images/butler.jpg 175 266 %}
 {% endmarginnote %}
 
-**Tue Jan 16 & Thu Jan 19**
+**Tue Jan 16**
 
 - Octavia Butler, *Parable of the Sower* (1993)
 - browse documents from the Huntington Library's [Octavia E. Butler Collection](http://www.huntington.org/octaviabutler/)
+
+**Thu Jan 19**
+
+- Butler, *Parable of the Sower,* cont'd
+- lecture: SF and the historical novel
 - watch excerpt from *Let it Fall: Los Angeles 1982-1992* (2017)
 
 # Weeks 3 - 6: Histories of SF

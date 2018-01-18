@@ -145,7 +145,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 - Butler, *Parable of the Sower,* cont'd
 - lecture: SF and the historical novel
-- watch excerpt from *Let it Fall: Los Angeles 1982-1992* (2017)
+- watch excerpt from [*Let it Fall: Los Angeles 1982-1992*](https://www.netflix.com/watch/80183783) (dir. John Ridley, 2017)
 
 # Weeks 3 - 6: Histories of SF
 

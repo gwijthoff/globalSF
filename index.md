@@ -82,6 +82,16 @@ Two short critical essays will be assigned, each focusing on one novel from our 
 
 For your final projejct, you will "re-design” an existing technology, infrastructure, or social form. These interventions can range from micro-level (e.g. proposing a particular tweak to the infrastructure of the Internet and tracing its consequences) to whole-cloth (e.g. envisioning an alternate communication system). You will situate this re-design among the novels we have read, using the texts to help imagine the structure implications of your re-design. The final form of this assignment will be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired. Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class.
 
+# Summary of Assignment Due Dates
+
+- Reports on Real World Novums
+    - Group A: **2/1, 2/22, 3/22, 4/12**
+    - Group B: **2/8, 3/1, 3/29, 4/19**
+    - Group C: **2/15, 3/15, 4/5, 4/19**
+- **March 1:** first short essay
+- **March 29:** second short essay
+- **April 26:** speculative redesign final project
+
 Administrivia
 ==============
 
@@ -175,6 +185,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Thu Feb 1**
 
 - stories TBD
+- **real world novums:** group A1 due
 
 <!--SELECTED STORIES: Sturgeon ???-->
 
@@ -185,11 +196,13 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Samuel R. Delany, *Trouble on Triton* (1976) {% marginnote ob %}
 {% image /assets/images/triton.jpg 175 266 %}
 {% endmarginnote %}
+- **real world novums:** group B1 due
 
 **Tue Feb 13 & Thu Feb 15**
 
 - *Visit to special collections on Tuesday, Feb 13*
 - Delany, cont'd
+- **real world novums:** group C1 due
 
 # Weeks 7 - 9: Urban Futures
 
@@ -204,6 +217,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Thu Feb 22**
 
 - Tidhar, cont'd
+- **real world novums:** group A2 due
 
 ## Bangkok
 
@@ -216,6 +230,8 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Thu Mar 1**
 
 - Bacigalupi, cont'd
+- **real world novums:** group B2 due
+- **FIRST SHORT ESSAY DUE**
 
 ❧ **MARCH 5–11 SPRING BREAK** ❧
 
@@ -230,6 +246,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 **Thu Mar 15**
 
 - Beukes, cont'd
+- **real world novums:** group C2 due
 
 # Week 10 - 15: Other Worlds
 
@@ -240,10 +257,13 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Cixin Liu, *The Three-Body Problem* (2008) {% marginnote ob %}
 {% image /assets/images/liu.jpg 175 266 %}
 {% endmarginnote %}
+- **real world novums:** group A3 due
 
 **Tue Mar 27 & Thu Mar 29**
 
 - Liu, cont'd
+- **real world novums:** group B3 due
+- **SECOND SHORT ESSAY DUE**
 
 ## Interlude: Some Comics
 
@@ -257,6 +277,7 @@ Readings TBD, could include:
 - [BELGIUM] Benoit Peeters and Francois Schuiten, *The Leaning Girl* (The Obscure Cities) (1996)
 - [CANADA] Jeff Lemire and Dustin Nguyen, *Descender* (2015)
 - [CANADA] Jeff Lemire, *Trillium* (2013)
+- **real world novums:** group C3 due
 
 ## Kim Stanley Robinson
 
@@ -265,10 +286,12 @@ Readings TBD, could include:
 - Kim Stanley Robinson, *2312* (2012) {% marginnote ob %}
 {% image /assets/images/2312.jpg 175 266 %}
 {% endmarginnote %}
+- **real world novums:** group A4 due
 
 **Tue Apr 17 & Thu Apr 19**
 
 - Robinson, cont'd
+- **real world novums:** groups B4 and C4 due
 
 ## Nnendi Okorafor
 
@@ -277,6 +300,7 @@ Readings TBD, could include:
 - Nnendi Okorafor, *Binti* (2015) {% marginnote ob %}
 {% image /assets/images/binti.jpg 175 266 %}
 {% endmarginnote %}
+- **SPECULATIVE REDESIGN FINAL PROJECT DUE**
 
 Acknowledgments
 ================

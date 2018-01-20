@@ -175,6 +175,9 @@ Penn State encourages qualified people with disabilities to participate in its p
 {% image /assets/images/weirdtales.jpg 175 266 %}
 {% endmarginnote %}
     - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm)
+- Edmond Hamilton, [“The Man Who Evolved” (1931)](readings/hamilton_stone.pdf)
+- Leslie F. Stone, “The Conquest of Gola” (1931)
+    - both appearing in the [April 1931 *Wonder Stories*](https://www.pulpmags.org/collections/flb/won19310400/mobile/index.html#p=1)
 
 ## The Golden Age
 

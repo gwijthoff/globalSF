@@ -274,13 +274,16 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 Readings TBD, could include:
 
-- [FRANCE] Alejandro Jodorowsky and Moebius, *The Incal* (1981) {% marginnote ob %}
+- Jeff Lemire and Dustin Nguyen, *Descender* (2015) {% marginnote ob %}
 {% image /assets/images/descender.png 175 266 %}
 {% endmarginnote %}
-- [BELGIUM] Benoit Peeters and Francois Schuiten, *The Leaning Girl* (The Obscure Cities) (1996)
-- [CANADA] Jeff Lemire and Dustin Nguyen, *Descender* (2015)
-- [CANADA] Jeff Lemire, *Trillium* (2013)
+- Naoki Urasawa and Osamu Tezuka, *Pluto* (2004/2009)
 - **real world novums:** group C3 due
+
+<!--
+  - [BELGIUM] Benoit Peeters and Francois Schuiten, *The Leaning Girl* (The Obscure Cities) (1996)
+  - [FRANCE] Alejandro Jodorowsky and Moebius, *The Incal* (1981)
+-->
 
 ## Kim Stanley Robinson
 

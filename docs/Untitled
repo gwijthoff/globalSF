@@ -6,10 +6,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
 
-  <title>Screening Series</title>
+  <title>Colophon</title>
   <meta name="description" content="">
 
-  <link rel="canonical" href="https://gwijthoff.github.io/globalSF//globalSF/screenings.html">
+  <link rel="canonical" href="https://gwijthoff.github.io/globalSF//globalSF/Untitled">
   <link rel="alternate" type="application/rss+xml" title="Global Science Fiction" href="https://gwijthoff.github.io/globalSF//globalSF/feed.xml">
 
   <script type="application/ld+json">
@@ -17,8 +17,8 @@
 {
   "@context": "http://schema.org",
   "@type": "NewsArticle",
-  "mainEntityOfPage": "https://gwijthoff.github.io/globalSF//globalSF/screenings.html",
-  "headline": "Screening Series",
+  "mainEntityOfPage": "https://gwijthoff.github.io/globalSF//globalSF/Untitled",
+  "headline": "Colophon",
   "datePublished": "2018-01-25T08:42:40-05:00",
   "dateModified": "2018-01-25T08:42:40-05:00",
   "description": "",
@@ -456,81 +456,13 @@ code {
     <article class="post">
 
   <div class="post-meta">
-    <h1 class="post-title">Screening Series</h1>
+    <h1 class="post-title">Colophon</h1>
   </div>
 
   <section>
-    <p>Unless otherwise noted, all film screenings will be held Mondays at 6:30pm in the <a href="https://stuckeman.psu.edu/stuckeman/facilities/iel">Immersive Environments Lab</a>, 208 Stuckeman building.</p>
+    Research data and working notes for an upcoming book, *Gadgetry: A History of Techniques.* Site's bones are Jekyll (a static site generator), fleshed out in Tachyons (a CSS library), as mashed up in [jekyons](https://github.com/joshosbrn/jekyons).
 
-<p style="text-align: center">❧</p>
-
-<h2 id="children-of-men-dir-alfonso-cuarn-2006"><em>Children of Men</em> (dir. Alfonso Cuarón, 2006)</h2>
-
-<p>Monday, January 29</p>
-
-<figure>
-  <amp-img width="1277" height="687" layout="responsive" src="/globalSF/assets/images/childrenofmen.jpg"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="robinson-crusoe-on-mars-dir-byron-haskin-1964"><em>Robinson Crusoe on Mars</em> (dir. Byron Haskin, 1964)</h2>
-
-<p>Monday, February 19</p>
-
-<figure>
-  <amp-img width="1777" height="750" layout="responsive" src="/globalSF/assets/images/robinsoncrusoe.jpg"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="akira-dir-katsuhiro-tomo-1988"><em>Akira</em> (dir. Katsuhiro Ôtomo, 1988)</h2>
-
-<p>Monday, March 12</p>
-
-<figure>
-  <amp-img width="1280" height="720" layout="responsive" src="/globalSF/assets/images/akira.jpg"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="scanners-dir-david-cronenberg-1981"><em>Scanners</em> (dir. David Cronenberg, 1981)</h2>
-
-<p>Monday, March 26</p>
-
-<figure>
-  <amp-img width="1920" height="1080" layout="responsive" src="/globalSF/assets/images/scanners.jpg"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="sleep-dealer-dir-alex-rivera-2008"><em>Sleep Dealer</em> (dir. Alex Rivera, 2008)</h2>
-
-<p>Monday, April 9</p>
-
-<figure>
-  <amp-img width="1920" height="1080" layout="responsive" src="/globalSF/assets/images/sleepdealer.jpg"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="blade-runner-2049-dir-denis-villeneuve-2017"><em>Blade Runner 2049</em> (dir. Denis Villeneuve, 2017)</h2>
-
-<p>Monday, April 25</p>
-
-<figure>
-  <amp-img width="1435" height="592" layout="responsive" src="/globalSF/assets/images/bladerunner2049.png"></amp-img>
-</figure>
-
-<p style="text-align: center">❧</p>
-
-<h2 id="world-on-a-wire-dir-rainer-werner-fassbinder-1973"><em>World on a Wire</em> (dir. Rainer Werner Fassbinder, 1973)</h2>
-
-<p>Date TBA</p>
-
-<figure>
-  <amp-img width="856" height="482" layout="responsive" src="/globalSF/assets/images/worldonawire.jpg"></amp-img>
-</figure>
+I compile my research data in a Google spreadsheet, then export to JSON using an add-on called [ExportSheetData](https://github.com/Synthoid/ExportSheetData). This site then pulls from the JSON data each time it's generated using the [jekyll-get](https://github.com/18F/jekyll-get) plugin. Icons are by [Font Awesome](https://fontawesome.com/).
 
   </section>
 

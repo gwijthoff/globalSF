@@ -3,7 +3,7 @@ layout: page
 title: Screening Series
 ---
 
-Unless otherwise noted, all film screenings will be held Mondays at 6:30pm in the [Immersive Environments Lab](https://stuckeman.psu.edu/stuckeman/facilities/iel), 121 Stuckeman building.
+Unless otherwise noted, all film screenings will be held Mondays at 6:30pm in the [Immersive Environments Lab](https://stuckeman.psu.edu/stuckeman/facilities/iel), 208 Stuckeman building.
 
 ❧
 {: style="text-align: center"}

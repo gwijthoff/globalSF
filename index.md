@@ -163,19 +163,15 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Jan 23**
 
-- Hugo Gernsback, ["A New Sort of Magazine"](https://manifold.umn.edu/read/fc03beb6-e670-4746-af17-4bac70ddb764/section/33eb407d-e039-4269-81df-6480de7fbfd3#ch50) (1926) {% marginnote ob %}
-{% image /assets/images/wonderstoriescover.jpg 175 266 %}
-{% endmarginnote %}
+- Hugo Gernsback, ["A New Sort of Magazine"](https://manifold.umn.edu/read/fc03beb6-e670-4746-af17-4bac70ddb764/section/33eb407d-e039-4269-81df-6480de7fbfd3#ch50) (1926) {% marginnote ob %} {% image /assets/images/wonderstoriescover.jpg 175 266 %} {% endmarginnote %}
 - Stanley Weinbaum, ["A Martian Odyssey"](readings/weinbaum_martian_odyssey.pdf) (1934)
-    - also page through [the July 1934 issue of *Wonder Stories*](http://comicbookplus.com/?dlid=36251) in which the Weinbaum story first appeared
+    - browse [July 1934 issue](http://comicbookplus.com/?dlid=36251) of *Wonder Stories* in which the Weinbaum story first appeared
 
 **Thu Jan 25**
 
-- C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933) {% marginnote ob %}
-{% image /assets/images/weirdtales.jpg 175 266 %}
-{% endmarginnote %}
-    - also page through the [November 1933 issue of *Weird Tales*](http://www.luminist.org/archives/SF/WT.htm)
-- Edmond Hamilton, [“The Man Who Evolved” (1931)](readings/hamilton_stone.pdf)
+- C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933) {% marginnote ob %} {% image /assets/images/weirdtales.jpg 175 266 %} {% endmarginnote %}
+    - browse [November 1933 issue](http://www.luminist.org/archives/SF/WT.htm) of *Weird Tales*
+- Edmond Hamilton, [“The Man Who Evolved”](readings/hamilton_stone.pdf) (1931)
 - Leslie F. Stone, “The Conquest of Gola” (1931)
     - both appearing in the [April 1931 *Wonder Stories*](https://www.pulpmags.org/collections/flb/won19310400/mobile/index.html#p=1)
 
@@ -183,14 +179,18 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Jan 30**
 
-- stories TBD
+- Robert Heinlein, ["The Roads Must Roll"](readings/heinlein_roads.pdf) (1940) {% marginnote %} {% image /assets/images/heinlein.jpg 175 266 %} {% endmarginnote %}
+    - browse [June 1940 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
+- Isaac Asimov, ["Reason"](readings/asimov_reason.pdf) (1941)
+    - browse [April 1941 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
 
 **Thu Feb 1**
 
-- stories TBD
+- James Blish, ["Surface Tension"](readings/blish_surface_tension.pdf) (1952) {% marginnote ob %} {% image /assets/images/blish.jpg 175 266 %} {% endmarginnote %}
+    - browse [August 1952 issue](https://archive.org/stream/galaxymagazine-1952-08/Galaxy_1952_08#page/n0/mode/2up) of *Galaxy Science Fiction*
+- Theodore Sturgeon, ["Thunder and Roses"](readings/sturgeon_thunder_roses.pdf) (1947)
+    - browse [November 1947 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
 - **real world novums:** group A1 due
-
-<!--SELECTED STORIES: Sturgeon ???-->
 
 ## The New Wave
 

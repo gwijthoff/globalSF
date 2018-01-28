@@ -179,17 +179,18 @@ Penn State encourages qualified people with disabilities to participate in its p
 
 **Tue Jan 30**
 
-- Robert Heinlein, ["The Roads Must Roll"](readings/heinlein_roads.pdf) (1940) {% marginnote %} {% image /assets/images/heinlein.jpg 175 266 %} {% endmarginnote %}
-    - browse [June 1940 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
-- Isaac Asimov, ["Reason"](readings/asimov_reason.pdf) (1941)
-    - browse [April 1941 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
+- Robert Heinlein, ["The Roads Must Roll"](readings/heinlein_roads.pdf) (*Astounding Science Fiction,* June 1940) {% marginnote %} {% image /assets/images/heinlein.jpg 175 266 %} {% endmarginnote %}
+- Isaac Asimov, ["Reason"](readings/asimov_reason.pdf) (*Astounding Science Fiction,* April 1941)
+- IF TIME:
+    - Isaac Asimov, ["Foundation"](asimov_foundation.pdf) (*Astounding Science Fiction,* May 1942)
 
 **Thu Feb 1**
 
-- James Blish, ["Surface Tension"](readings/blish_surface_tension.pdf) (1952) {% marginnote ob %} {% image /assets/images/blish.jpg 175 266 %} {% endmarginnote %}
-    - browse [August 1952 issue](https://archive.org/stream/galaxymagazine-1952-08/Galaxy_1952_08#page/n0/mode/2up) of *Galaxy Science Fiction*
-- Theodore Sturgeon, ["Thunder and Roses"](readings/sturgeon_thunder_roses.pdf) (1947)
-    - browse [November 1947 issue](http://www.luminist.org/archives/SF/AST.htm) of *Astounding Science Fiction*
+- James Blish, ["Surface Tension"](readings/blish_surface_tension.pdf) (*Galaxy Science Fiction,* August 1952) {% marginnote ob %} {% image /assets/images/blish.jpg 175 266 %} {% endmarginnote %}
+    <!-- https://archive.org/stream/galaxymagazine-1952-08/Galaxy_1952_08#page/n0/mode/2up -->
+- Theodore Sturgeon, ["Thunder and Roses"](readings/sturgeon_thunder_roses.pdf) (*Astounding Science Fiction,* November 1947)
+- IF TIME:
+    - Cordwainer Smith, ["The Game of Rat and Dragon,"](https://archive.org/stream/galaxymagazine-1955-10/Galaxy_1955_10#page/n127/mode/2up) (*Galaxy Science Fiction,* October 1955)
 - **real world novums:** group A1 due
 
 ## The New Wave

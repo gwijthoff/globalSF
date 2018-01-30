@@ -167,6 +167,13 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Stanley Weinbaum, ["A Martian Odyssey"](readings/weinbaum_martian_odyssey.pdf) (1934)
     - browse [July 1934 issue](http://comicbookplus.com/?dlid=36251) of *Wonder Stories* in which the Weinbaum story first appeared
 
+❧
+{: style="text-align: center"}
+
+- Lecture: the origins of science fiction
+- Mieville, VanderMeer, and the New Weird
+- resource: [*Sisters of Tomorrow: The First Women of Science Fiction,*](http://www.upne.com/0819576231.html) ed. Lisa Yaszek and Patrick B. Sharp
+
 **Thu Jan 25**
 
 - C.L. Moore, ["Shambleau"](readings/moore_shambleau.pdf) (1933) {% marginnote ob %} {% image /assets/images/weirdtales.jpg 175 266 %} {% endmarginnote %}
@@ -184,6 +191,13 @@ Penn State encourages qualified people with disabilities to participate in its p
 - IF TIME:
     - Isaac Asimov, ["Foundation"](asimov_foundation.pdf) (*Astounding Science Fiction,* May 1942)
 
+❧
+{: style="text-align: center"}
+
+- see Heinlein's Future History [timeline]( http://4.bp.blogspot.com/_zlmgp98jbEw/TQVlG30CaUI/AAAAAAAAAMQ/K20-HU935To/s1600/Green_Hills_of_Earth_chart1.JPG)
+- excerpt from [*The Seasteaders*](http://dismagazine.com/dystopia/evolved-lifestyles/67148/what-is-seasteading/) documentary, dir. Hurwitz-Goodman and Keller
+- resource: Jeff Prucher, *Brave New Words: Oxford Dictionary of Science Fiction*
+
 **Thu Feb 1**
 
 - James Blish, ["Surface Tension"](readings/blish_surface_tension.pdf) (*Galaxy Science Fiction,* August 1952) {% marginnote ob %} {% image /assets/images/blish.jpg 175 266 %} {% endmarginnote %}
@@ -191,6 +205,10 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Theodore Sturgeon, ["Thunder and Roses"](readings/sturgeon_thunder_roses.pdf) (*Astounding Science Fiction,* November 1947)
 - IF TIME:
     - Cordwainer Smith, ["The Game of Rat and Dragon,"](https://archive.org/stream/galaxymagazine-1955-10/Galaxy_1955_10#page/n127/mode/2up) (*Galaxy Science Fiction,* October 1955)
+
+❧
+{: style="text-align: center"}
+
 - **real world novums:** group A1 due
 
 ## The New Wave

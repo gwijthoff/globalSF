@@ -195,7 +195,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 {: style="text-align: center"}
 
 - see Heinlein's Future History [timeline]( http://4.bp.blogspot.com/_zlmgp98jbEw/TQVlG30CaUI/AAAAAAAAAMQ/K20-HU935To/s1600/Green_Hills_of_Earth_chart1.JPG)
-- excerpt from [*The Seasteaders*](http://dismagazine.com/dystopia/evolved-lifestyles/67148/what-is-seasteading/) documentary, dir. Hurwitz-Goodman and Keller
+- discuss libertarianism, technocracy, and infrastructure, and view excerpt from [*The Seasteaders*](http://dismagazine.com/dystopia/evolved-lifestyles/67148/what-is-seasteading/) documentary, dir. Hurwitz-Goodman and Keller
 - resource: Jeff Prucher, *Brave New Words: Oxford Dictionary of Science Fiction*
 
 **Thu Feb 1**

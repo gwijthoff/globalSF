@@ -218,6 +218,11 @@ Penn State encourages qualified people with disabilities to participate in its p
 - Samuel R. Delany, *Trouble on Triton* (1976) {% marginnote ob %}
 {% image /assets/images/triton.jpg 175 266 %}
 {% endmarginnote %}
+
+❧
+{: style="text-align: center"}
+
+- Reading Exercise: [Pomodoro Technique](exercises/reading1_pomodoro)
 - **real world novums:** group B1 due
 
 **Tue Feb 13 & Thu Feb 15**

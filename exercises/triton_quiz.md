@@ -1,9 +1,7 @@
 ---
-title: _Trouble on Triton_ reading quiz
+title: Trouble on Triton reading quiz
 layout: exercise
 ---
-
-\pagenumbering{gobble}
 
 1. Which of the following is a character in this novel?
 
@@ -14,19 +12,7 @@ layout: exercise
 
 2. What is a sensory screen?
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 3. What are the two factions in the solar-system-wide war?
-
-&nbsp;
-
-&nbsp;
 
 4. Where was the novel's protagonist born?
 
@@ -36,13 +22,5 @@ layout: exercise
     d) Ganymede
 
 5. What are some of the events of the novel's opening pages?
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 6. Describe Delany's writing style

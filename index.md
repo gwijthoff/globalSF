@@ -223,6 +223,7 @@ Penn State encourages qualified people with disabilities to participate in its p
 {: style="text-align: center"}
 
 - Reading Exercise: [Pomodoro Technique](exercises/reading1_pomodoro)
+- See [spread in June 1968](/assets/images/galaxy68_vietnam.jpg) *Galaxy Science Fiction* listing on one page SF authors supporting the Vietnam War
 - **real world novums:** group B1 due
 
 **Tue Feb 13 & Thu Feb 15**

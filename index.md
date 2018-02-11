@@ -76,7 +76,7 @@ Four times throughout the semester, you will report on a real-world "novum" (SF 
 
 **24% short essays (two)**
 
-Two short critical essays will be assigned, each focusing on one novel from our readings. Both essays will run 5 double-spaced pages each (~1500 words). Further instruction will be provided.
+Two short critical essays will be assigned, each focusing on one novel from our readings. Both essays will run 5 double-spaced pages each (~1500 words). Details on [essay 1 here.](exercises/essay1)
 
 **24% speculative design final project**
 
@@ -88,7 +88,7 @@ For your final projejct, you will "re-design” an existing technology, infrastr
     - Group A: **2/1, 2/22, 3/22, 4/12**
     - Group B: **2/8, 3/1, 3/29, 4/19**
     - Group C: **2/15, 3/15, 4/5, 4/19**
-- **March 1:** first short essay
+- **March 1:** [first short essay](exercises/essay1)
 - **March 29:** second short essay
 - **April 26:** speculative redesign final project
 

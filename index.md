@@ -242,9 +242,18 @@ Penn State encourages qualified people with disabilities to participate in its p
 {% image /assets/images/tidhar.jpg 175 266 %}
 {% endmarginnote %}
 
+❧
+{: style="text-align: center"}
+
+- Reading Exercise: [Soundtrack](exercises/soundtrack)
+
 **Thu Feb 22**
 
 - Tidhar, cont'd
+
+❧
+{: style="text-align: center"}
+
 - **real world novums:** group A2 due
 
 ## Bangkok

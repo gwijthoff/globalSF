@@ -1,5 +1,5 @@
 ---
-title: Reading Exercise Pomodoro Technique
+title: Reading Exercise 1, Pomodoro Technique
 author: |
   Global Science Fiction \| Spring 2018\
   Prof. Wythoff

@@ -17,20 +17,20 @@ Monday, January 29
 ❧
 {: style="text-align: center"}
 
-## *Robinson Crusoe on Mars* (dir. Byron Haskin, 1964)
+## *Akira* (dir. Katsuhiro Ôtomo, 1988)
 
 Monday, February 19
 
-{% image /assets/images/robinsoncrusoe.jpg 1777 750 %}
+{% image /assets/images/akira.jpg 1280 720 %}
 
 ❧
 {: style="text-align: center"}
 
-## *Akira* (dir. Katsuhiro Ôtomo, 1988)
+## *Robinson Crusoe on Mars* (dir. Byron Haskin, 1964)
 
 Monday, March 12
 
-{% image /assets/images/akira.jpg 1280 720 %}
+{% image /assets/images/robinsoncrusoe.jpg 1777 750 %}
 
 ❧
 {: style="text-align: center"}

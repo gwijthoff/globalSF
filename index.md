@@ -76,11 +76,11 @@ Four times throughout the semester, you will report on a real-world "novum" (SF 
 
 **24% short essays (two)**
 
-Two short critical essays will be assigned, each focusing on one novel from our readings. Both essays will run 5 double-spaced pages each (~1500 words). Details on [essay 1 here.](exercises/essay1)
+Two short critical essays will be assigned, each focusing on one novel from our readings. Both essays will run 5 double-spaced pages each (~1500 words). Details and prompts for [essay 1 here.](exercises/essay1) Students can write on a topic of their own choosing for essay 2.
 
-**24% speculative design final project**
+**24% [final project](exercises/final_project)**
 
-For your final project, you will "re-design” an existing technology, infrastructure, or social form. These interventions can range from micro-level (e.g. proposing a particular tweak to the infrastructure of the Internet and tracing its consequences) to whole-cloth (e.g. envisioning an alternate communication system). You will situate this re-design among the novels we have read, using the texts to help imagine the structure implications of your re-design. The final form of this assignment will be a paper of 5 to 7 pages, properly referenced, and with additional media as necessary or desired. Virtually any medium could work: paper prototypes, clay, painting, video, etc. You will additionally give an informal presentation of your re-design to the class.
+For your final project, you will choose one of the following options: 1) "re-design” an existing technology, infrastructure, or political form, or social norm. 2) Write your own short work of science fiction, annotated with explanations of your artistic and critical decisions throughout. [Details here.](exercises/final_project)
 
 # Summary of Assignment Due Dates
 
@@ -346,6 +346,6 @@ Readings TBD, could include:
 Acknowledgments
 ================
 
-Thanks to Lisa Yaszek, Nicholas Knouf, Eric Hayot and Matt Tierney, whose syllabi and pedagogy influenced the design and content of this course.
+Thanks to Lisa Yaszek, Nicholas Knouf, Michele Speitz, Eric Hayot and Matt Tierney, whose syllabi and pedagogy influenced the design and content of this course.
 
 <!-- use `_md_to_pdf_header` then & pandoc -o globalSF_syllabus.pdf --template globalsfsyl.latex index.md -->
